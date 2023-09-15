@@ -7,3 +7,22 @@ drwxr-xr-x 1 krishna 197121 0 Sep 14 13:09 data1/
 -rw-r--r-- 1 krishna 197121 0 Sep 14 08:24 file2.txt
 -rw-r--r-- 1 krishna 197121 0 Sep 14 08:24 file3.txt
 -rw-r--r-- 1 krishna 197121 0 Sep 14 08:24 file4.txt
+total 40K
+drwxr-xr-x 1 krishna 197121   0 Sep 15 07:00 ./
+drwxr-xr-x 1 krishna 197121   0 Sep 15 07:54 ../
+drwxr-xr-x 1 krishna 197121   0 Sep 15 07:55 .git/
+drwxr-xr-x 1 krishna 197121   0 Sep 14 13:09 data1/
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file1.html
+-rw-r--r-- 1 krishna 197121 422 Sep 14 13:19 file1.txt
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file10.html
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file2.html
+-rw-r--r-- 1 krishna 197121 438 Sep 14 13:19 file2.txt
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file3.html
+-rw-r--r-- 1 krishna 197121 438 Sep 14 13:19 file3.txt
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file4.html
+-rw-r--r-- 1 krishna 197121 438 Sep 14 13:19 file4.txt
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file5.html
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file6.html
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file7.html
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file8.html
+-rw-r--r-- 1 krishna 197121   0 Sep 15 07:00 file9.html
